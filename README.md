@@ -3,7 +3,7 @@
 <h3 align="center">When I code, I do it for fun. So I never get bored.</h3>
 <img align="right" alt="Coding" width="400" src="https://jmp.sh/s/uJhqIoA1vDkHD1E1yKaz">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-swe&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-swe" /> </p>
+<p align="left"> <img src="https://jmp.sh/s/uJhqIoA1vDkHD1E1yKaz" alt="nafiz-swe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
