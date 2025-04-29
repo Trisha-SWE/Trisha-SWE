@@ -1,7 +1,7 @@
 <img src="nafiz-noyon-github.gif" alt="MasterHead" width="" height="">
-<h1 align="center">Assalamualykum 🤝. Ich heiße Noyon</h1>
-<h3 align="center">Wenn ich programmiere, mache ich das zum Spaß. Deshalb langweile ich mich nie.</h3>
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+<h1 align="center">Assalamualykum 🤝. This is Trisha</h1>
+<h3 align="center">When I code, I do it for fun. So I never get bored.</h3>
+<img align="right" alt="Coding" width="400" src="[https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22RAT.gif%22%2C%22type%22%3A%22image%2Fgif%22%2C%22signedurl_expire%22%3A%222028-04-28T11%3A10%3A32.217Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa5d0fdf554a446ea%2FRAT.gif%3FExpires%3D1840533032%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DFslEc2I4VXeYtiwZgleHya34au3DpWeYPryKZK0Qx1QG0QlGQufPZKCZbfS~gHbBbcpGOs2~PNvPGSZapZWoETEZ3oqrWpRovF0aGzNiyi207SJSL~OHhSUFi8dBgfGQZL-4XzYslIR9-mLp6YqJkNlL~dVfaDXlR6w5aKOTkwCWSvx7nEfNBiwTYVB3b3XDerOOaXeSHEbhxsRd8qPOxkNzOO494cZd5z~P0UNrabEBVt5otoPEujA5zs1V06yn8vZngfHYOjZcxuPZAQH2F~3a0M78JOuyXuJAt~A0xhspnkN0fxHs4ldM7tBJyPCEiWr27ua~re5dUk6KQUAFIQ__%22%7D)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-swe&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-swe" /> </p>
 
