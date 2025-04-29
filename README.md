@@ -9,20 +9,24 @@
 
 - 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
 
-- 🌱 Aktuell: **Datenwissenschaft mit Python** | OSTAD.
 
-- 🌱 Kurs in **PHP mit Laravel** abgeschlossen | OSTAD.
 
-- 💬 Frag mich über **Datenwissenschaft**
+- 🔭 I’m currently working on [Explor it](https://github.com/Trisha-SWE/pet-hotel)
 
-- 💬 Frag mich über **PHP**
+- 🌱 Currently learning: Data Science with Python | OSTAD.
 
-- 📫 So erreichst du mich **nafizulislam.swe@gmail.com**
+- 🌱 Completed course in UI/UX Design | OSTAD.
 
-- ⚡ Interessante Tatsache: **Ich esse Python und PHP**
+- 💬 Ask me about UI/UX
+
+- 💬 Ask me about JavaScript, PHP and Python
+
+- 📫 Reach me at trisha2305341292@diu.edu.bd
+
+- ⚡ Fun fact: I eat Python and PHP for breakfast
 &nbsp;
 
-<h3 align="left">Verbinde dich mit mir</h3>
+<h3 align="left">Connect with me.</h3>
 <p align="left">
 <a href="https://codepen.io/nafiz-swe-diu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nafiz-swe-diu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nafiz-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiz-swe" height="30" width="40" /></a>
