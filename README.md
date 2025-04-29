@@ -102,6 +102,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
 </p>
+<h3 align="left">UI/UX</h3>
+<p align="left">
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="Figma.png" alt="figma" width="40" height="40"/>
+  </a> 
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=en&layout=compact" alt="nafiz-swe" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=en" alt="nafiz-swe" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nafiz-swe&theme=algolia&border_radius=5.5&locale=de" alt="GitHub Streak" /></p>
