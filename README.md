@@ -102,7 +102,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
 </p>
-<h3 align="left">UI/UX</h3>
+<h3 align="left">Design</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="Figma-Icon.png" alt="figma" width="40" height="40"/>
