@@ -1,9 +1,9 @@
 <img src="nafiz-noyon-github.gif" alt="MasterHead" width="" height="">
 <h1 align="center">Assalamualykum 🤝. This is Trisha</h1>
 <h3 align="center">When I code, I do it for fun. So I never get bored.</h3>
-<img align="right" alt="Coding" width="400" src="https://jmp.sh/s/uJhqIoA1vDkHD1E1yKaz">
+<img align="right" alt="Coding" width="400" src="web_developing.gif">
 
-<p align="left"> <img src="https://jmp.sh/s/uJhqIoA1vDkHD1E1yKaz" alt="nafiz-swe" /> </p>
+<p align="left"> <img src="RAT.gif" alt="trisha-swe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
