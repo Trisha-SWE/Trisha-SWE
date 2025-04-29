@@ -104,8 +104,8 @@
 </p>
 <h3 align="left">UI/UX</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="Figma.png" alt="figma" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="Figma-Icon.png" alt="figma" width="40" height="40"/>
   </a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=en&layout=compact" alt="nafiz-swe" /></p>
