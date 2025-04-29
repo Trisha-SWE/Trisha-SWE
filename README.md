@@ -1,4 +1,4 @@
-<img src="RAT.gif" alt="MasterHead" width="" height="">
+<img src="rat-git.gif" alt="MasterHead" width="" height="">
 <h1 align="center">Assalamualykum 🤝. This is Trisha</h1>
 <h3 align="center">When I code, I do it for fun. So I never get bored.</h3>
 <img align="right" alt="Web Developing" width="400" src="web_developing.gif">
