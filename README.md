@@ -116,4 +116,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trisha-SWE&show_icons=true&locale=en&layout=compact" alt="Trisha-SWE" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Trisha-SWE&show_icons=true&locale=en" alt="Trisha-SWE" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Trisha-SWE" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Trisha-SWE&theme=radical" alt="GitHub Streak" /></p>
