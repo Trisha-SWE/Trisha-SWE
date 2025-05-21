@@ -19,7 +19,7 @@
 
 - 💬 Ask me about JavaScript, PHP and Python
 
-- 📫 Reach me at trisha2305341292@diu.edu.bd
+- 📫 Reach me at RukaiyaTrisha.swe@gmail.com
 
 - ⚡ Fun fact: I eat Python and PHP for breakfast
 &nbsp;
